@@ -1,0 +1,19 @@
+
+a
+java:S2095"EUse try-with-resources or close this "Scanner" in a "finally" clause.(êşªûÿÿÿÿ
+U
+java:S4973‡"9Use the "equals" method if value comparison was intended.(ÿˆàùüÿÿÿÿ
+U
+java:S4973€"9Use the "equals" method if value comparison was intended.(šê‚úÿÿÿÿ
+U
+java:S4973Ÿ"9Use the "equals" method if value comparison was intended.(‚÷×·ıÿÿÿÿ
+m
+java:S3776V"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(ŸŠ›âûÿÿÿÿ
+c
+java:S1192u"NDefine a constant instead of duplicating this literal "invalid input" 8 times.(±¨
+O
+java:S4973z"9Use the "equals" method if value comparison was intended.(¨á¯
+U
+java:S4973é"9Use the "equals" method if value comparison was intended.(ÑÅîöşÿÿÿÿ
+V
+java:S1119 ";Refactor the code to remove this label and the need for it.(·ÒÙŠøÿÿÿÿ
